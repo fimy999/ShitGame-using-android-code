@@ -4,4 +4,4 @@
 TAP TAP: https://www.taptap.com/app/55103
 9游: http://www.9game.cn/kzqb/
 
-想要源码的给我star,在这里只能做一个半开源,github上最特别的Android项目.
+想要源码的给我star,在这里只能做一个半开源,github上最特别的Android项目.啊啊啊
